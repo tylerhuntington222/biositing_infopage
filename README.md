@@ -1,6 +1,6 @@
 # Biositing Tool
 
-This webtool was developed at the Lawrence Berkeley National Lab.                                                                    
+This webtool was developed by the Lawrence Berkeley National Lab.                                                                    
 
 The webtool can be found free of charge at: [https://biositing-tool-heroku.herokuapp.com/](https://biositing-tool-heroku.herokuapp.com/)
 
