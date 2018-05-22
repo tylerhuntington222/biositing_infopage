@@ -3,15 +3,17 @@
 
 @import "{{ site.theme }}";
 section {
-    width: 650px;
+    width: 90%;
     float: right;
     padding-bottom: 50px;
+    position: fixed;
+    left: 300px;
 }
 
 footer {
     width: 200px;
     float: left;
-    position: static;
+    position: fixed;
     left: 30px;
     -webkit-font-smoothing: subpixel-antialiased;
 }
