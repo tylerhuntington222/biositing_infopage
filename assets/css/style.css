@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+section {
+    width: 70%;
+    float: right;
+    padding-bottom: 50px;
+}
