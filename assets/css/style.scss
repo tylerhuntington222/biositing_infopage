@@ -3,24 +3,23 @@
 
 @import "{{ site.theme }}";
 section {
-    width: 80%;
+    width: 650px;
     float: right;
     padding-bottom: 50px;
 }
 
 footer {
-    width: 210px;
+    width: 200px;
     float: left;
-    position: fixed;
-    left: 100px;
-    bottom: 50px;
+    position: static;
+    left: 30px;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 
 header {
-    width: 210px;
+    width: 200px;
     float: left;
-    position: fixed;
-    left: 100px;
+    position: static;
+    left: 30px;
     -webkit-font-smoothing: subpixel-antialiased;
 }
