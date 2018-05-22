@@ -9,7 +9,17 @@ The webtool can be found free of charge at: [https://biositing-tool-heroku.herok
 
 
 ## Data
-
+- **Wastewater treatment plants (WWTP) with anaerobic digestion**
+- **Facilities with anaerobic digestion onsite other than WWTP**
+- **Combustion plants**.
+- **Manure locations**.
+- **Manure (non points)***
+- **Municipal solid waste locations**
+- **Crop locations**
+- **Processor residue (non points)**
+- **District energy systems**
+- **Mixed use developments (non points)**
+- **Process heating and cooling locations**
 
 
 ## Webtool
