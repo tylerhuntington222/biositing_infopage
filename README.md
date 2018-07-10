@@ -2,7 +2,7 @@
 
 This webtool was developed by the Lawrence Berkeley National Lab.                                                                    
 
-The webtool can be found free of charge at: [https://biositing-tool-heroku.herokuapp.com/](https://biositing-tool-heroku.herokuapp.com/)
+The webtool can be found free of charge at: [https://biositing-tool-pro.herokuapp.com/](https://biositing-tool-heroku.herokuapp.com/)
 
 
 ## Background
